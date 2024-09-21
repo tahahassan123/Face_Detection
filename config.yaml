@@ -1,0 +1,6 @@
+path: /home/tahahassan/Projects/PycharmProjects/YOLOv8_face_detection/YOLOv8_face_detection_train
+train: images/train
+val: images/validate
+
+names:
+  0: face
